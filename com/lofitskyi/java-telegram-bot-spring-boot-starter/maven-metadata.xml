@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lofitskyi</groupId>
+  <artifactId>java-telegram-bot-spring-boot-starter</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200630155822</lastUpdated>
+  </versioning>
+</metadata>
